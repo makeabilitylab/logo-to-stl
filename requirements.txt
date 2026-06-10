@@ -1,0 +1,5 @@
+# logo_to_stl.py uses only the Python standard library — no runtime dependencies.
+# This file is intentionally (almost) empty; it exists so `pip install -r` is a
+# valid, no-op step and so the project is obvious at a glance.
+#
+# For optional mesh validation / preview tooling, see requirements-dev.txt.

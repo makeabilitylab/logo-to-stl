@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 720 432"
+   id="svg243"
+   sodipodi:docname="MakeabilityLab-Logo-v3-LaserCut_v2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview243"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.081504"
+     inkscape:cx="405.45389"
+     inkscape:cy="190.93781"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg243" />
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1, .st3, .st5, .st6, .st7, .st9, .st11, .st16, .st17, .st22, .st23, .st24, .st25, .st27, .st29, .st30, .st31 {
+        fill: none;
+      }
+
+      .st0, .st2, .st4, .st8, .st9, .st10, .st12, .st13, .st14, .st15, .st18, .st19, .st20, .st21, .st25, .st26, .st27, .st28, .st29, .st31 {
+        stroke: #231f20;
+      }
+
+      .st32 {
+        fill: #cf91a6;
+      }
+
+      .st33, .st2, .st34, .st8, .st35, .st18 {
+        fill-opacity: .7;
+      }
+
+      .st33, .st18 {
+        fill: #ffce2f;
+      }
+
+      .st1 {
+        stroke: #0fa24a;
+      }
+
+      .st1, .st9, .st11, .st16, .st22, .st23, .st27, .st30 {
+        opacity: .8;
+      }
+
+      .st2, .st35, .st28 {
+        fill: #009444;
+      }
+
+      .st36, .st37, .st21, .st26 {
+        fill-opacity: .6;
+      }
+
+      .st36, .st21 {
+        fill: #00aeef;
+      }
+
+      .st38 {
+        fill: #ab93c5;
+      }
+
+      .st39 {
+        fill: #ebba83;
+      }
+
+      .st34, .st8 {
+        fill: #2b3990;
+      }
+
+      .st40, .st41, .st42, .st4, .st10, .st13, .st43, .st14, .st19, .st44, .st28 {
+        fill-opacity: .8;
+      }
+
+      .st40, .st13 {
+        fill: #ffde17;
+      }
+
+      .st45 {
+        fill: #d1e285;
+      }
+
+      .st41, .st4 {
+        fill: #ee2a7b;
+      }
+
+      .st42, .st10 {
+        fill: #662d91;
+      }
+
+      .st3 {
+        stroke: #4053a4;
+      }
+
+      .st3, .st25 {
+        opacity: .75;
+      }
+
+      .st46 {
+        fill: #efe27f;
+      }
+
+      .st47 {
+        fill: #93a9cf;
+      }
+
+      .st5, .st7 {
+        stroke: #ed1c24;
+      }
+
+      .st5, .st16, .st27, .st29, .st30, .st31 {
+        stroke-width: 8px;
+      }
+
+      .st48 {
+        fill: #ebb982;
+      }
+
+      .st49, .st12 {
+        fill: #f9ed32;
+        fill-opacity: .5;
+      }
+
+      .st6 {
+        opacity: .5;
+        stroke: #4e53a3;
+      }
+
+      .st50 {
+        fill: #93d3ca;
+      }
+
+      .st11 {
+        stroke: #2a348e;
+      }
+
+      .st43, .st14 {
+        fill: #231f20;
+      }
+
+      .st37, .st26 {
+        fill: #d7df23;
+      }
+
+      .st15, .st51, .st52, .st20 {
+        fill-opacity: .65;
+      }
+
+      .st15, .st52 {
+        fill: #f15a29;
+      }
+
+      .st53 {
+        fill: #87cae4;
+      }
+
+      .st16, .st22 {
+        stroke: #faa41a;
+      }
+
+      .st16, .st54, .st30, .st31 {
+        display: none;
+      }
+
+      .st51, .st20 {
+        fill: #7dc78f;
+      }
+
+      .st17 {
+        opacity: .85;
+        stroke: #52b0e3;
+      }
+
+      .st19, .st44 {
+        fill: #fbb040;
+      }
+
+      .st23, .st30 {
+        stroke: #cf1c60;
+      }
+
+      .st55 {
+        fill: #94ce92;
+      }
+
+      .st24 {
+        opacity: .6;
+        stroke: #bb3995;
+      }
+
+      .st56 {
+        fill: #eda2a3;
+      }
+
+      .st27 {
+        stroke-opacity: .85;
+      }
+    </style>
+  </defs>
+  <g
+     id="Full_w_x2F_Triangles">
+    <g
+       id="Black_Inner_Fills"
+       style="fill:#000000;fill-opacity:1">
+      <polygon
+         class="st28"
+         points="432 288 504 216 504 288 432 288"
+         id="polygon194"
+         style="fill:#000000;fill-opacity:1" />
+      <polygon
+         class="st28"
+         points="216 288 216 360 288 288 216 288"
+         id="polygon195"
+         style="fill:#000000;fill-opacity:1" />
+      <polygon
+         class="st28"
+         points="216 216 288 288 216 288 216 216"
+         id="polygon196"
+         style="fill:#000000;fill-opacity:1" />
+      <polygon
+         class="st28"
+         points="504 360 504 288 432 288 504 360"
+         id="polygon197"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+    <g
+       id="M_Inner_Fills"
+       class="st54">
+      <polygon
+         class="st18"
+         points="432 144 504 216 504 144 432 144"
+         id="polygon198" />
+      <polygon
+         class="st26"
+         points="504 360 576 288 504 288 504 360"
+         id="polygon199" />
+      <polygon
+         class="st19"
+         points="504 216 576 288 576 216 504 216"
+         id="polygon200" />
+      <polygon
+         class="st15"
+         points="144 144 216 216 144 216 144 144"
+         id="polygon201" />
+      <polygon
+         class="st2"
+         points="144 288 216 216 144 216 144 288"
+         id="polygon202" />
+      <polygon
+         class="st13"
+         points="144 288 216 216 216 288 144 288"
+         id="polygon203" />
+      <polygon
+         class="st8"
+         points="144 288 216 360 216 288 144 288"
+         id="polygon204" />
+      <polygon
+         id="_x3C_Path_x3E_"
+         class="st20"
+         points="504 72 576 144 504 144 504 72" />
+      <polygon
+         class="st12"
+         points="504 216 576 144 504 144 504 216"
+         id="polygon205" />
+      <polygon
+         class="st4"
+         points="432 144 504 72 504 144 432 144"
+         id="polygon206" />
+      <polygon
+         class="st10"
+         points="504 216 576 144 576 216 504 216"
+         id="polygon207" />
+      <polygon
+         class="st21"
+         points="504 216 504 288 576 288 504 216"
+         id="polygon208" />
+      <g
+         id="Black_Inner_Fills1"
+         data-name="Black_Inner_Fills">
+        <polygon
+           class="st14"
+           points="432 288 504 216 504 288 432 288"
+           id="polygon209" />
+        <polygon
+           class="st14"
+           points="216 288 216 360 288 288 216 288"
+           id="polygon210" />
+        <polygon
+           class="st14"
+           points="216 216 288 288 216 288 216 216"
+           id="polygon211" />
+        <polygon
+           class="st14"
+           points="504 360 504 288 432 288 504 360"
+           id="polygon212" />
+      </g>
+    </g>
+    <g
+       id="M_Inner_Fills__x28_Original_Colors_x29_"
+       class="st54">
+      <polygon
+         class="st38"
+         points="504,144 432,144 504,216 "
+         id="polygon213" />
+      <polygon
+         class="st56"
+         points="504,288 504,360 576,288 "
+         id="polygon214" />
+      <polygon
+         class="st39"
+         points="576,216 504,216 576,288 "
+         id="polygon215" />
+      <polygon
+         class="st46"
+         points="144,216 144,144 216,216 "
+         id="polygon216" />
+      <polygon
+         class="st46"
+         points="144,216 144,288 216,216 "
+         id="polygon217" />
+      <polygon
+         class="st45"
+         points="216,288 144,288 216,216 "
+         id="polygon218" />
+      <polygon
+         class="st50"
+         points="216,288 144,288 216,360 "
+         id="polygon219" />
+      <polygon
+         id="_x3C_Path_x3E_1"
+         data-name="_x3C_Path_x3E_"
+         class="st47"
+         points="504,144 504,72 576,144 " />
+      <polygon
+         class="st55"
+         points="504,144 504,216 576,144 "
+         id="polygon220" />
+      <polygon
+         class="st53"
+         points="504,144 432,144 504,72 "
+         id="polygon221" />
+      <polygon
+         class="st48"
+         points="576,216 504,216 576,144 "
+         id="polygon222" />
+      <polygon
+         class="st32"
+         points="576,288 504,216 504,288 "
+         id="polygon223" />
+      <g
+         id="Black_Inner_Fills2"
+         data-name="Black_Inner_Fills"
+         class="st54">
+        <polygon
+           class="st14"
+           points="504,288 432,288 504,216 "
+           id="polygon224" />
+        <polygon
+           class="st14"
+           points="288,288 216,288 216,360 "
+           id="polygon225" />
+        <polygon
+           class="st14"
+           points="216,288 216,216 288,288 "
+           id="polygon226" />
+        <polygon
+           class="st14"
+           points="432,288 504,360 504,288 "
+           id="polygon227" />
+      </g>
+    </g>
+    <g
+       id="M_Inner_Outlines"
+       style="display:inline">
+      <polygon
+         class="st7"
+         points="432,144 504,216 504,144 "
+         id="polygon228"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="504,360 576,288 504,288 "
+         id="polygon229"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="504,216 576,288 576,216 "
+         id="polygon230"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="144,144 216,216 144,216 "
+         id="polygon231"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="144,288 216,216 144,216 "
+         id="polygon232"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="144,288 216,216 216,288 "
+         id="polygon233"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="144,288 216,360 216,288 "
+         id="polygon234"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         id="_x3C_Path_x3E_2"
+         data-name="_x3C_Path_x3E_"
+         class="st7"
+         points="504,72 576,144 504,144 "
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="504,216 576,144 504,144 "
+         id="polygon235"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="432,144 504,72 504,144 "
+         id="polygon236"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="504,216 576,144 576,216 "
+         id="polygon237"
+         style="stroke:#0000ff;stroke-opacity:1" />
+      <polygon
+         class="st7"
+         points="504,216 504,288 576,288 "
+         id="polygon238"
+         style="stroke:#0000ff;stroke-opacity:1" />
+    </g>
+    <g
+       id="L_Inner_Triangles"
+       class="st54">
+      <polygon
+         id="L_Triangle_16"
+         class="st0"
+         points="504,216 432,216 432,144 " />
+      <polygon
+         id="L_Triangle_15"
+         class="st9"
+         points="360,216 432,144 432,216 " />
+      <polygon
+         id="L_Triangle_14"
+         class="st25"
+         points="432,288 504,216 432,216 " />
+      <polygon
+         id="L_Triangle_13"
+         class="st0"
+         points="432,288 432,216 360,216 " />
+      <polygon
+         id="L_Triangle_12"
+         class="st0"
+         points="432,288 360,288 360,216 " />
+      <polygon
+         id="L_Triangle_11"
+         class="st25"
+         points="360,360 432,288 360,288 " />
+      <polygon
+         id="L_Triangle_10"
+         class="st0"
+         points="360,360 360,288 288,288 " />
+      <polygon
+         id="L_Triangle_9"
+         class="st9"
+         points="288,288 360,216 360,288 " />
+      <polygon
+         id="L_Triangle_8"
+         class="st25"
+         points="288,288 360,216 288,216 " />
+      <polygon
+         id="L_Triangle_7"
+         class="st0"
+         points="288,288 288,216 216,216 " />
+      <polygon
+         id="L_Triangle_6"
+         class="st0"
+         points="360,216 288,216 288,144 " />
+      <polygon
+         id="L_Triangle_5"
+         class="st9"
+         points="216,216 288,144 288,216 " />
+      <polygon
+         id="L_Triangle_4"
+         class="st25"
+         points="216,216 288,144 216,144 " />
+      <polygon
+         id="L_Triangle_3"
+         class="st0"
+         points="216,216 216,144 144,144 " />
+      <polygon
+         id="L_Triangle_2"
+         class="st0"
+         points="288,144 216,144 216,72 " />
+      <polygon
+         id="L_Triangle_1"
+         class="st0"
+         points="144,144 216,72 216,144 " />
+    </g>
+    <polyline
+       id="L2"
+       class="st5"
+       points="432 144 504 216 468 252 432 288"
+       style="stroke:#0000ff;stroke-opacity:1" />
+    <polyline
+       id="L1"
+       class="st5"
+       points="288 288 216 216 144 144"
+       style="stroke:#0000ff;stroke-opacity:1" />
+    <polygon
+       id="M_Outline1"
+       data-name="M_Outline"
+       class="st29"
+       points="576 144 576 216 576 288 504 360 432 288 360 360 288 288 216 360 144 288 144 216 144 216.16 144 144.16 144 144 216 72 288 144 360 216 432 144 504 72 576 144"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <g
+       id="Left_Triangle__x28_Unneeded_x29_3"
+       data-name="Left_Triangle__x28_Unneeded_x29_"
+       class="st54">
+      <line
+         class="st11"
+         x1="72"
+         y1="216.16"
+         x2="144"
+         y2="144.16"
+         id="line238" />
+      <line
+         class="st23"
+         x1="72"
+         y1="216.16"
+         x2="144"
+         y2="288.16"
+         id="line239" />
+      <line
+         class="st24"
+         x1="72"
+         y1="216.16"
+         x2="144"
+         y2="216.16"
+         id="line240" />
+    </g>
+    <g
+       id="Right_Triangle__x28_Unneeded_x29_3"
+       data-name="Right_Triangle__x28_Unneeded_x29_"
+       class="st54">
+      <line
+         class="st6"
+         x1="576"
+         y1="144"
+         x2="648"
+         y2="216"
+         id="line241" />
+      <line
+         class="st22"
+         x1="576"
+         y1="288"
+         x2="648"
+         y2="216"
+         id="line242" />
+      <line
+         class="st17"
+         x1="576"
+         y1="216"
+         x2="648"
+         y2="216"
+         id="line243" />
+    </g>
+  </g>
+</svg>

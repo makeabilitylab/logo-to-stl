@@ -1,0 +1,5 @@
+# Optional: used only for validating/visualizing output, not for generation.
+#   python3 -c "import trimesh; m=trimesh.load('stl/makeability-logo.stl'); \
+#               print('bodies:', m.body_count, 'volume:', round(m.volume,1))"
+trimesh>=4.0
+numpy>=1.24
